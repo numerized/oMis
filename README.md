@@ -1,4 +1,4 @@
-<h1>Ionic/IOTA(tangle)
+<h1>Ionic/IOTA(tangle)</h1>
 
 npm install
 
