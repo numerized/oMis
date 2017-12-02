@@ -1,4 +1,5 @@
 npm install
+
 ionic serve
 
 Open console and check logs.
